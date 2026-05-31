@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerpalculate",
+        "uuid": 5241168,
+        "checksum": "1ic52j"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
